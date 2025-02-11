@@ -107,6 +107,3 @@ Swagger password: **_secret_**
 ```
 
 ---
-
-Best regards <br />
-[Mostafa Gholami](https://gitlab.com/mst-ghi)
